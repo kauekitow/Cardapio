@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+body{
+    background: hsl(323, 30%, 86%);
+}
+
+h1{
+    font-family: "Young Serif", serif;
+    font-size: 30px;
+}
+
+p, ul, ol, h2{
+    font-family: "Outfit", sans-serif;
+}
+
+.topo{
+    width: 435px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card{
+    box-shadow: 0 0 4px rgb(216, 174, 174);
+    padding: 40px 50px;
+    background-color: white;
+    margin: 30%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    border-radius: 20px;
+}
+.space{
+    padding: 20px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+}
+
+.space h3{
+    color: hsl(332, 51%, 32%)
+}
+p, ul, ol{
+    font-size: 16px;
+}
+
+.nutrition-table {
+    width: 375px;
+}
+  
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.row span {
+    font-size: 14px;
+}
+  
+.separa {
+    color: #703F1E;
+}
+  
+hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 6px 0;
+}
