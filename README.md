@@ -1,4 +1,4 @@
-# Card de Desconto
+# Card de Receita
 
 estava testando minhas habilidades com o @media para ver se consigo melhorar ainda mais.
 
