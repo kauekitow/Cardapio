@@ -1,6 +1,6 @@
 # Card de Receita
 
-estava testando minhas habilidades com o @media para ver se consigo melhorar ainda mais.
+Estava testando minhas habilidades no CSS e html para comprir o desafio do Frontend Mentor.
 
 ## Tecnologias usadas
 
